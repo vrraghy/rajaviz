@@ -22,6 +22,6 @@ This is an attempt to visualise the number of Ilaiyaraaja's songs by various sin
 - Of course, please do feel free to fork this repo.
 
 **Credits**
-All credits to @vasturiano for his amazing work on https://github.com/vasturiano/3d-force-graph/. If you like this work, please [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=L398E7PKP47E8&currency_code=USD&source=url) to him / [get_him a ☕](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=L398E7PKP47E8&currency_code=USD&source=url).
+All credits to @vasturiano for his amazing work on [3d-force-graph](https://github.com/vasturiano/3d-force-graph/). If you like this work, please [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=L398E7PKP47E8&currency_code=USD&source=url) to him / [get_him a ☕](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=L398E7PKP47E8&currency_code=USD&source=url).
 
 Thank you!
