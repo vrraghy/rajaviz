@@ -133,7 +133,7 @@
     //Raja!
 	const planeGeometry = new THREE.PlaneGeometry(1000, 1000, 1, 1);
 	var loader = new THREE.TextureLoader();
-	var groundTexture = loader.load( 'raja.jpg' );
+	var groundTexture = loader.load( 'js/raja.jpg' );
 	var groundMaterial = new THREE.MeshLambertMaterial( { map: groundTexture } );
 	var mesh = new THREE.Mesh( planeGeometry, groundMaterial )
     mesh.position.set(-100, -500, -300);
